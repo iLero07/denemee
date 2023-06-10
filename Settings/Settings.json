@@ -1,0 +1,37 @@
+{
+    "BotSettings": {
+        "token": "MTEwNzU5MzAzMzU5NzMzNzY5MA.G1T81t.1YEXwxePZxJnRtc9T7cv1SQi6n-VhmIYkoiQjI",
+        "owner": "986204366073655308",
+        "prefix": "?",
+        "botStatus": "raz1A kayıt botu",
+        "botVoiceChannelID": "1082383283972734986"
+    },
+    "Roles": {
+        "BoyRole1": "842800029562699816",
+        "GirlRole1": "842800151973724210",
+        "Unregister": "842797150706335774",
+        "Registerer": "843064454044581918"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "raz1A",
+            "ServerID": "809425089120043016"
+    },
+        "Channels": {
+            "RegisterChat": "1082383025259692122",
+            "Rules": "843046786623864843",
+            "GeneralChat": "809426666081746986"
+        },
+        "Welcome": {
+            "WelcomeChat": "842809416071512075",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
